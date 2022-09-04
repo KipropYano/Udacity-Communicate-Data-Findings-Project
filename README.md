@@ -3,7 +3,7 @@ This project has two parts that demonstrate the importance and value of data vis
 In Part I, Exploratory data visualization, I used Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables.
 In Part II, Explanatory data visualization, I produced a short presentation that illustrates interesting properties, trends, and relationships that I discovered in my selected dataset. 
 ## Overview of Ford GoBike System Data
-This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
+This [Ford Go Bike Data set](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv) includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 ## Summary of Findings
 In summary;  
 #### 1. Univariate exploration
